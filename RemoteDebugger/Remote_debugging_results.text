@@ -1,0 +1,4 @@
+bash-3.2$ java -agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005 Application
+Listening for transport dt_socket at address: 5005
++---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+$$$$$$$$$+$$$$$$$$$+$$$$$$$$$+$$$$$@@Listening for transport dt_socket at address: 5005
+@@+@@@@@@@^Cbash-3.2$
